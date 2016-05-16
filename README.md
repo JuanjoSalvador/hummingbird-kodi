@@ -1,7 +1,7 @@
 # hummingbird-kodi
 Kodi addon for Hummingbird.me
 
-Kodi version: 16.0
+Kodi version: 15.0
 
 ## Join us!
 * **Slack** https://awesomedevs-team.slack.com/
